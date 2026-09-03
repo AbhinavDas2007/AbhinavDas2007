@@ -72,7 +72,7 @@ The project covers:
 
 ## 🔗 Connect With Me
 
-💼 **LinkedIn:** [Your LinkedIn](YOUR_LINKEDIN_LINK)
+💼 **LinkedIn:** [Your LinkedIn](www.linkedin.com/in/abhinav-d-661525386)
 
 🐙 **GitHub:** [Your GitHub](https://github.com/YOUR_USERNAME)
 
