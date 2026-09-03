@@ -2,7 +2,7 @@
 
 ### Aspiring Data Scientist | Data Analytics | Python | SQL | Power BI
 
-I'm an engineering student interested in **Data Science, Data Analytics, and Business Intelligence**.
+I'm an engineering student at NIT Raipur interested in **Data Science, Data Analytics, and Business Intelligence**.
 
 I enjoy working with data to uncover patterns, generate insights, and build meaningful visualizations and analytical solutions.
 
