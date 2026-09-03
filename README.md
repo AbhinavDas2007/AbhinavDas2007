@@ -72,9 +72,9 @@ The project covers:
 
 ## 🔗 Connect With Me
 
-💼 **LinkedIn:** [Your LinkedIn](www.linkedin.com/in/abhinav-d-661525386)
+💼 **LinkedIn:** (www.linkedin.com/in/abhinav-d-661525386)
 
-🐙 **GitHub:** [Your GitHub](https://github.com/YOUR_USERNAME)
+🐙 **GitHub:** (https://github.com/AbhinavDas2007)
 
 🌐 **Portfolio:** [My Portfolio](YOUR_PORTFOLIO_LINK)
 
