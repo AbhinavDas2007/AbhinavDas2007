@@ -64,12 +64,6 @@ The project covers:
 
 ---
 
-## 📈 GitHub Stats
-
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
-
----
-
 ## 🔗 Connect With Me
 
 💼 **LinkedIn:** (www.linkedin.com/in/abhinav-d-661525386)
