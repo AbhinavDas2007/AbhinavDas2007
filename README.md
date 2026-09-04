@@ -50,7 +50,7 @@ The project covers:
 - Interactive Power BI dashboard
 - Web-based project presentation
 
-🔗 **[View Project](YOUR_PROJECT_REPOSITORY_LINK)**
+🔗 **[View Project](https://github.com/AbhinavDas2007/Student-Performance-Analysis)**
 
 ---
 
