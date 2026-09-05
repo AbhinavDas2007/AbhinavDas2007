@@ -70,8 +70,6 @@ The project covers:
 
 🐙 **GitHub:** (https://github.com/AbhinavDas2007)
 
-🌐 **Portfolio:** [My Portfolio](YOUR_PORTFOLIO_LINK)
-
 ---
 
 ### 💡 "Turning data into insights, one analysis at a time." 📊
